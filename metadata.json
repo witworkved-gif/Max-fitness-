@@ -1,0 +1,8 @@
+{
+  "name": "Remix Max Fitness Gym - Solapur",
+  "description": "Official website of Max Fitness Gym in Solapur (Rating 4.8★). Weight training, cardio, diet consultation, certified trainers, class schedules, and membership packages. Prop: Shripad Sugare | 7768965260.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
